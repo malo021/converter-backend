@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "api/convert.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
+```
+
+---
+
+**File 3: `requirements.txt`** (in the root folder)
+```
+openai
